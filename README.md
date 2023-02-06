@@ -1,1 +1,3 @@
 # NLPhybridframework
+<img width="351" alt="image" src="https://user-images.githubusercontent.com/93883256/217018315-fea490c2-5de6-4362-8c6a-63376a46d7a0.png">
+The hybrid framework seeks to achieve sentiment classification of fresh food review text and efficient extraction of product attribute topics. A classification model based on word2vec vectors is first implemented in combination with deep neural networks, and then attribute extraction is performed for the text. A combination of TF-IDF and word vectors are designed to extract the attributes in the topic extraction part. Finally, the hybrid framework is evaluated.
